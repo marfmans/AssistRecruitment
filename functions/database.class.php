@@ -6,10 +6,10 @@
         public $conn;
 
         // De gegevens om de connectie mee te maken
-        private $host = 'localhost';
-        private $db_name = 'rockstarmovies';
-        private $username = 'root';
-        private $password = '';
+        private $host = 'https://assist.tk/';
+        private $db_name = 'assist';
+        private $username = 'assist';
+        private $password = 'KPg$R%Tsd@Y%';
 
         // Connectie maken
         public function getConnection() {

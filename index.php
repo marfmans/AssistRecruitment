@@ -1,3 +1,3 @@
-<html>
-
-</html>
+<?php
+require ("functions/database.class.php")
+?>

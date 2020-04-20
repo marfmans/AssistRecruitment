@@ -7,9 +7,9 @@
 
         // De gegevens om de connectie mee te maken
         private $host = 'localhost';
-        private $db_name = 'rockstarmovies';
-        private $username = 'root';
-        private $password = '';
+        private $db_name = 'assistrecruitment';
+        private $username = 'assist';
+        private $password = 'KPg$R%Tsd@Y%';
 
         // Connectie maken
         public function getConnection() {

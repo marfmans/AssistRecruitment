@@ -7,7 +7,7 @@
 
         // De gegevens om de connectie mee te maken
         private $host = 'localhost';
-        private $db_name = 'assistrecruitment';
+        private $db_name = 'assist';
         private $username = 'assist';
         private $password = 'KPg$R%Tsd@Y%';
 
